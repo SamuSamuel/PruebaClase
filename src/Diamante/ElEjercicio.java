@@ -11,7 +11,7 @@ public class ElEjercicio {
 	System.out.println("Escriba el numero de filas que desea tener : ");
 	int n=sc.nextInt(); 
 	System.out.print("Escriba el simbolo el cual desea utilizar : ");
-	 
+	 //MODIFICACION 1 RAMA1
 	char c = sc.next().charAt(0);
 	int i=1;
 	int j; 
