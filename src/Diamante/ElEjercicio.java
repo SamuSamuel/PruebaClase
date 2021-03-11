@@ -10,7 +10,7 @@ public class ElEjercicio {
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Escriba el numero de filas que desea tener : ");
 	int n=sc.nextInt(); 
-	System.out.print("Escriba el simbolo que desea utilizar : ");
+	System.out.print("Escriba el simbolo el cual desea utilizar : ");
 	 
 	char c = sc.next().charAt(0);
 	int i=1;
