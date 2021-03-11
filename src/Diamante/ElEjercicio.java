@@ -13,8 +13,9 @@ public class ElEjercicio {
 	System.out.print("Escriba el simbolo el cual desea utilizar : ");
 	 //MODIFICACION 1 RAMA 1
 	char c = sc.next().charAt(0);
-	//MODIFICACION 2 RAMA 2
+	//MODIFICACION 2 RAMA 1
 	int i=1;
+	//MODIFICACION 3 RAMA 1
 	int j; 
 	do 
 	{
