@@ -8,7 +8,7 @@ public class ElEjercicio {
 	{
 	 
 	Scanner sc=new Scanner(System.in);
-	System.out.println("Escriba el numero de filas : ");
+	System.out.println("Escriba el numero de filas que desea tener : ");
 	int n=sc.nextInt(); 
 	System.out.print("Escriba el simbolo que desea utilizar : ");
 	 
